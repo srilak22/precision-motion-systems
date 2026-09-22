@@ -30,6 +30,7 @@
   --color-input: var(--input);
   --color-ring: var(--ring);
   --color-surface-dark: var(--surface-dark);
+  --color-surface-foreground: var(--surface-foreground);
   --color-surface-elevated: var(--surface-elevated);
   --color-signal: var(--signal);
   --color-signal-foreground: var(--signal-foreground);
@@ -58,6 +59,7 @@
   --input: oklch(0.82 0.012 125);
   --ring: oklch(0.68 0.18 126);
   --surface-dark: oklch(0.14 0.012 170);
+  --surface-foreground: oklch(0.96 0.006 105);
   --surface-elevated: oklch(0.2 0.012 170);
   --signal: oklch(0.78 0.21 126);
   --signal-foreground: oklch(0.14 0.02 135);
