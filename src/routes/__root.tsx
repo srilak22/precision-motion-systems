@@ -77,9 +77,9 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Industrial Robotics & Motion Control" },
-      { name: "description", content: "Robotic components, motion control, and industrial automation technology." },
-      { name: "author", content: "Robotics Engineering" },
+      { title: "Indus Robotics — Industrial Robotics & Motion Control" },
+      { name: "description", content: "Indus Robotics delivers robotic components, motion control, and industrial automation technology for modern manufacturing." },
+      { name: "author", content: "Indus Robotics" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
           ],
